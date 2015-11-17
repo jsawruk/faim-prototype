@@ -1,0 +1,1 @@
+g++ main.cpp audio.cpp -lportaudio
