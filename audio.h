@@ -3,7 +3,7 @@
 
 #pragma once
 
-#import <portaudio.h>
+#include <portaudio.h>
 
 // Define device names
 // Default OS X
