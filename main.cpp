@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#import "audio.h"
+#include "audio.h"
 
 int main(int argc, char *argv[]) {
 	

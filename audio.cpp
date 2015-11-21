@@ -1,11 +1,11 @@
 // Audio.cpp
 // Implementation file for audio class
-#import "audio.h"
+#include "audio.h"
 
-#import <math.h>
-#import <stdio.h>
-#import <string.h>
-#import <portaudio.h>
+#include <math.h>
+#include <stdio.h>
+#include <string.h>
+#include <portaudio.h>
 
 static int lfoIndex;
 static float lfoTable[LFO_SIZE];
